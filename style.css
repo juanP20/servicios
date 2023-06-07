@@ -1,0 +1,10 @@
+body{
+    font-family: 'Playfair Display', serif;
+}
+img{
+    width: 50vh;
+}
+.btn_main{
+    font-size: 90px;
+    margin: 5vh;
+}
